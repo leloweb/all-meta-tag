@@ -38,7 +38,7 @@
 <meta name="og:url" content="http://leloweb.com/"/>
 <meta name="og:image" content=""/>
 <meta name="og:site_name" content="IMDb"/>
-<meta name="og:description" content="Provides all type services & Coding related to website Developing."/>
+<meta name="og:description" content="Provides all type services &amp; Coding related to website Developing."/>
 
 <meta name="fb:page_id" content="129124524369137" />
 
